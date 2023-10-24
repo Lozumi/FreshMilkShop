@@ -1,6 +1,10 @@
 # FreshMilkShop
 A Java project.
 
+## Function
+Listed in following UML chart.
+![UML chart](./src/resources/uml.png)
+
 ## Todo
 ### Classes
 - [ ] BrightFreshMilkSystem
