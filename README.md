@@ -1,0 +1,2 @@
+# FreshMilkShop
+A Java project.
