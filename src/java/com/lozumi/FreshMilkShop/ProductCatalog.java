@@ -1,4 +1,4 @@
-package src.java.com.lozumi.FreshMilkShop;
+package java.com.lozumi.FreshMilkShop;
 
 public class ProductCatalog {
     public void addProduct(Product product){
