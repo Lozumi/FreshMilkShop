@@ -7,17 +7,17 @@ Listed in following UML chart.
 
 ## Todo
 ### Classes
-- [ ] BrightFreshMilkSystem
-- [ ] StoreSales
-- [ ] ProductCatalog
-- [ ] Order
-- [ ] SaleItem
+- [x] BrightFreshMilkSystem
+- [x] StoreSales
+- [x] ProductCatalog
+- [x] Order
+- [x] SaleItem
 - [x] Product
 - [x] Jelly
 - [x] PureMilk
 - [x] MilkDrink
 - [x] Yogurt
 ### Process
-- [ ] Build classes
+- [x] Build classes
 - [ ] Test
-- [ ] Write Javadoc
+- [x] Write Javadoc
